@@ -6,3 +6,5 @@ The metalogox package extends the metalogo package to automatically adjust the a
 For unknown fonts, the user may specify a similar font, usually to good effect.
 
 The code is on CTAN: https://ctan.org/pkg/metalogox
+
+![Sample Logos](https://raw.githubusercontent.com/bdtc/metalogox/main/sample.png)
