@@ -7,4 +7,4 @@ For unknown fonts, the user may specify a similar font, usually to good effect.
 
 The code is on CTAN: https://ctan.org/pkg/metalogox
 
-
+![Sample logos](https://raw.githubusercontent.com/bdtc/metalogox/main/sample.jpg)
